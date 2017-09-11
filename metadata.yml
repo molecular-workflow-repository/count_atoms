@@ -1,0 +1,12 @@
+name: count_atoms
+workflow_authors:
+ - Aaron Virshup: Autodesk Research
+contributors:
+ - "@avirshup"
+description: Returns the number of atoms in a molecule.
+methods: |
+   A brief demonstration of `molflow`'s built-in file format converters.
+citations:
+  - molsim.bionano.autodesk.com
+keywords:
+  - onboarding
